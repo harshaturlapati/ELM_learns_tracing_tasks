@@ -9,7 +9,7 @@ The empirical laws governing human-curvilinear movements have been studied using
 - set_training_settings.m
 - set_generalization_settings.m
 - define_curves_for_generalization.mlx
-- v2_train_versionLyudmila.mlx
-- v2_generalize.mlx
-- v3_compare_ppl.m
-- v2_generalize_new_TRAJ.mlx
+- train_ELM.mlx
+- generalize_fig8.mlx
+- compare_ppl.m
+- generalize_new_TRAJ.mlx
